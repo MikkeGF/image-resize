@@ -1,0 +1,6 @@
+devenv/
+originals/
+resized/
+*.jpeg
+*.png
+*.webp
