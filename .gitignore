@@ -1,6 +1,8 @@
 devenv/
-originals/
-resized/
+originals/*
+!originals/.gitkeep
+resized/*
+!resized/.gitkeep
 *.jpeg
 *.png
 *.webp
